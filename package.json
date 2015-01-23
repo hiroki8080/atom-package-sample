@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "main": "./lib/sample",
+  "version": "0.0.0",
+  "description": "This is a sample package.",
+  "repository": "https://github.com/atom/sample",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
